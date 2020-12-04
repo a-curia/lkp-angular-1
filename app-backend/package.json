@@ -1,0 +1,21 @@
+{
+  "name": "app-backend",
+  "version": "1.0.0",
+  "description": "Backedn Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian curia",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/node": "^7.12.6",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/runtime": "^7.12.5"
+  }
+}
